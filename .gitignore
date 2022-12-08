@@ -1,0 +1,4 @@
+#Ignorar archivos de word
+.docx
+#Ignorar archivos exe
+.exe
